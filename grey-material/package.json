@@ -1,0 +1,22 @@
+{
+    "name": "grey-material",
+    "displayName": "Grey Material",
+    "description": "A neutral material theme",
+    "version": "0.0.1",
+    "publisher": "Nick",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Grey Material",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Grey Material-color-theme.json"
+            }
+        ]
+    }
+}
