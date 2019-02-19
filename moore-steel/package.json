@@ -1,0 +1,22 @@
+{
+    "name": "moore-steel",
+    "displayName": "Moore Steel",
+    "description": "Neutral greys and pastels",
+    "version": "0.0.1",
+    "publisher": "Nick",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Moore Steel",
+                "uiTheme": "vs",
+                "path": "./themes/Moore Steel-color-theme.json"
+            }
+        ]
+    }
+}
